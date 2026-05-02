@@ -5,6 +5,10 @@
 > A trucker-themed protocol for reducing the inter-agent handoff tax through
 > plain-English augmentation — not replacement.
 
+<img width="1254" height="1254" alt="CONVOY Protochol" src="https://github.com/user-attachments/assets/1425197c-2ec8-4387-9edb-755a3f07a148" />
+
+
+
 **Document type:** Architectural specification
 **Intended audience:** System architects, agent authors, fleet operators
 **Status:** Draft — pre-skill-conversion.
